@@ -12,10 +12,9 @@ This study examines the psychological mechanisms underlying rating–recommendat
 ## Repository Structure
 
 ```
-├── data_processing.ipynb    # Main analytical notebook
-├── data/
-│   ├── Kaggle_Womens_Clothing_Reviews.csv   # Primary dataset (Kaggle)
-│   └── reddit_comments.csv           # Supplementary dataset
+├── data_processing.ipynb
+├── Kaggle_Womens_Clothing_Reviews.csv
+├── reddit_comments.csv
 └── figures/
     ├── rating_distribution_bw.png
     ├── h2_total_bw.png
