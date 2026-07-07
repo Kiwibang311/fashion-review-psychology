@@ -14,7 +14,7 @@ This study examines the psychological mechanisms underlying rating–recommendat
 ```
 ├── data_processing.ipynb    # Main analytical notebook
 ├── data/
-│   ├── womens_clothing_reviews.csv    # Primary dataset (Kaggle)
+│   ├── Kaggle_Womens_Clothing_Reviews.csv   # Primary dataset (Kaggle)
 │   └── reddit_comments.csv           # Supplementary dataset
 └── figures/
     ├── rating_distribution_bw.png
