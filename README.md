@@ -12,7 +12,9 @@ This study examines the psychological mechanisms underlying rating–recommendat
 ## Repository Structure
 
 ```
-├── data_processing.ipynb
+Repository Structure
+├── data_processing.ipynb       — Main analysis pipeline (H1–H5, RQ1–RQ2, RQ5)
+├── Age_cohort_topic.ipynb      — BERTopic analysis for RQ3/RQ4 (age-group comparison)
 ├── Kaggle_Womens_Clothing_Reviews.csv
 ├── reddit_comments.csv
 └── figures/
